@@ -1,3 +1,5 @@
+![CI](https://github.com/Waltberry/ai-sales-enablement-demo/actions/workflows/ci.yml/badge.svg)
+
 # AI for Sales Enablement – Offline Demo
 
 Rule-based prototype of an **AI-assisted sales enablement tool** that ingests a CSV of opportunities and produces:
