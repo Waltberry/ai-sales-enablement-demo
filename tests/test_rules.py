@@ -1,3 +1,4 @@
+# tests/test_rules.py
 from domain import Opportunity
 from rules import assess_risk, recommend_actions, suggest_email
 

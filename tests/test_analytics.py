@@ -1,3 +1,4 @@
+# tests/test_analytics.py
 from domain import Opportunity
 from analytics import compute_basic_kpis, stage_summary, risk_distribution
 from rules import assess_risk
