@@ -1,0 +1,76 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Build / dist artifacts
+.build/
+dist/
+build/
+*.egg-info/
+*.egg
+.eggs/
+
+# Byte-compiled / optimized / DLL files
+*$py.class
+
+# Coverage / test reports
+.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
+.tox/
+.nox/
+
+# Mypy / type-checking
+.mypy_cache/
+.dmypy.json
+.dmypy/
+
+# Ruff / lint caches
+.ruff_cache/
+
+# -------------------------
+# Project-specific
+# -------------------------
+
+# Local Streamlit config & state
+.streamlit/
+
+# Local distribution / packaging folder if used
+.dist/
+
+# Data: keep the canonical sample CSV, ignore other ad-hoc CSVs
+data/*.csv
+!data/sample_opportunities.csv
+
+# Logs
+logs/
+*.log
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# PyCharm / IntelliJ
+.idea/
+
+# Jupyter (in case you add notebooks later)
+.ipynb_checkpoints/
+
+# Misc
+*.swp
+*.swo

@@ -1,0 +1,201 @@
+id,account_name,stage,amount,probability,days_in_stage,last_contact_days_ago,notes
+OPP-001,Acme Bank,Proposal,117196,0.38,19,4,Decision maker is blocked and wants to pause discussion for now.
+OPP-002,Northern Grid,Proposal,75302,0.31,10,6,Customer sees us as preferred vendor pending contract review. Legal and procurement may add additional delays.
+OPP-003,Maple Retail,Qualification,55962,0.21,15,17,Waiting for customer to confirm internal meeting date.
+OPP-004,Evergreen Health,Qualification,32298,0.16,14,27,Waiting for customer to confirm internal meeting date.
+OPP-005,Prairie Telecom,Discovery,99131,0.25,7,23,Waiting for customer to confirm internal meeting date.
+OPP-006,Evergreen Health,Closed Lost,50656,0.08,90,46,Competitor mentioned as alternative with lower price.
+OPP-007,Skyline Logistics,Proposal,29116,0.31,19,24,Client very engaged and sees strong value in the solution.
+OPP-008,Evergreen Health,Closed Won,102869,0.89,56,17,Customer asked for additional documentation.
+OPP-009,Skyline Logistics,Proposal,109593,0.49,43,20,Stakeholders aligned and interested in moving forward. Legal and procurement may add additional delays.
+OPP-010,Maple Retail,Discovery,110198,0.31,48,10,Risk of losing to competitor if we cannot improve proposal.
+OPP-011,Acme Bank,Prospecting,30673,0.11,5,9,Client thinks current proposal is too expensive.
+OPP-012,Maple Retail,Discovery,85435,0.28,46,14,Stakeholders aligned and interested in moving forward.
+OPP-013,Velocity Capital,Discovery,90644,0.25,42,13,Project on hold due to internal re-org; risk of delay.
+OPP-014,City Health,Discovery,86784,0.30,53,1,Budget constraints mentioned; might delay decision.
+OPP-015,Maple Retail,Proposal,75333,0.48,29,12,Client requested a high-level summary for leadership.
+OPP-016,Acme Bank,Closed Lost,60029,0.10,78,55,Technical fit confirmed; next step is commercial review.
+OPP-017,Evergreen Health,Qualification,20365,0.19,17,19,Client thinks current proposal is too expensive.
+OPP-018,Macro Finance,Closed Won,197496,0.90,35,16,Customer asked for additional documentation.
+OPP-019,Velocity Capital,Proposal,20074,0.48,36,0,Technical fit confirmed; next step is commercial review.
+OPP-020,Macro Finance,Negotiation,92770,0.42,41,30,Positive feedback from the last demo; awaiting internal approval.
+OPP-021,Velocity Capital,Closed Lost,62967,0.02,70,42,Customer sees us as preferred vendor pending contract review.
+OPP-022,Evergreen Health,Closed Won,85521,0.99,35,52,Internal review ongoing; follow-up planned next week.
+OPP-023,Velocity Capital,Discovery,79177,0.22,19,2,No major concerns raised; next demo is being scheduled.
+OPP-024,Northern Grid,Proposal,48864,0.30,50,20,Client very engaged and sees strong value in the solution.
+OPP-025,NorthTel,Closed Won,164782,0.85,72,20,No major concerns raised; next demo is being scheduled.
+OPP-026,FinPlus,Proposal,81993,0.54,17,3,Positive feedback from the last demo; awaiting internal approval.
+OPP-027,Skyline Logistics,Discovery,27100,0.33,46,3,Technical fit confirmed; next step is commercial review.
+OPP-028,NorthTel,Negotiation,95183,0.48,39,14,Stakeholders aligned and interested in moving forward. Legal and procurement may add additional delays.
+OPP-029,NorthTel,Discovery,78082,0.36,59,17,Customer sees us as preferred vendor pending contract review.
+OPP-030,NorthTel,Negotiation,91965,0.47,36,15,Positive feedback from the last demo; awaiting internal approval.
+OPP-031,Acme Bank,Qualification,35586,0.15,30,12,No major concerns raised; next demo is being scheduled.
+OPP-032,FinPlus,Proposal,58890,0.37,8,18,Customer raised concern about integration timeline and complexity.
+OPP-033,Northern Grid,Prospecting,41246,0.13,34,8,Customer sees us as preferred vendor pending contract review. Prospect is still defining scope and requirements.
+OPP-034,Northern Grid,Qualification,14453,0.24,16,15,Customer sees us as preferred vendor pending contract review. Prospect is still defining scope and requirements.
+OPP-035,Northern Grid,Proposal,30745,0.43,42,18,Internal review ongoing; follow-up planned next week. Legal and procurement may add additional delays.
+OPP-036,FinPlus,Negotiation,99629,0.56,47,20,Technical fit confirmed; next step is commercial review.
+OPP-037,Acme Bank,Closed Lost,150136,0.09,82,13,Stakeholders aligned and interested in moving forward.
+OPP-038,City Health,Proposal,65745,0.56,20,11,Positive feedback from the last demo; awaiting internal approval.
+OPP-039,Northern Grid,Negotiation,168658,0.40,57,17,Client very engaged and sees strong value in the solution.
+OPP-040,NorthTel,Qualification,17014,0.25,10,11,Stakeholders aligned and interested in moving forward.
+OPP-041,Maple Retail,Qualification,27300,0.20,17,30,Positive feedback from the last demo; awaiting internal approval.
+OPP-042,Prairie Telecom,Prospecting,18573,0.15,17,8,Client thinks current proposal is too expensive.
+OPP-043,NorthTel,Proposal,29862,0.58,49,28,Client very engaged and sees strong value in the solution.
+OPP-044,City Health,Proposal,76333,0.34,24,11,Risk of losing to competitor if we cannot improve proposal.
+OPP-045,Prairie Telecom,Prospecting,23767,0.15,7,14,Risk of losing to competitor if we cannot improve proposal.
+OPP-046,City Health,Proposal,51029,0.56,56,25,Positive feedback from the last demo; awaiting internal approval. Legal and procurement may add additional delays.
+OPP-047,Prairie Telecom,Negotiation,137928,0.72,60,23,Competitor mentioned as alternative with lower price. Legal and procurement may add additional delays.
+OPP-048,Evergreen Health,Negotiation,40151,0.74,19,6,Project on hold due to internal re-org; risk of delay.
+OPP-049,FinPlus,Negotiation,88438,0.41,17,12,Waiting for customer to confirm internal meeting date.
+OPP-050,Maple Retail,Discovery,86768,0.28,58,17,Waiting for customer to confirm internal meeting date.
+OPP-051,Macro Finance,Qualification,21702,0.22,17,4,Positive feedback from the last demo; awaiting internal approval.
+OPP-052,Evergreen Health,Negotiation,188914,0.79,12,12,Budget constraints mentioned; might delay decision. Legal and procurement may add additional delays.
+OPP-053,Acme Bank,Negotiation,166293,0.77,39,21,Decision maker is blocked and wants to pause discussion for now.
+OPP-054,Evergreen Health,Qualification,14585,0.29,22,22,Waiting for customer to confirm internal meeting date.
+OPP-055,Macro Finance,Discovery,107410,0.28,30,22,Stakeholders aligned and interested in moving forward.
+OPP-056,Maple Retail,Qualification,34847,0.24,12,22,Client requested a high-level summary for leadership.
+OPP-057,Macro Finance,Prospecting,23774,0.11,38,22,Project on hold due to internal re-org; risk of delay.
+OPP-058,Velocity Capital,Proposal,82021,0.54,55,23,Client very engaged and sees strong value in the solution. Legal and procurement may add additional delays.
+OPP-059,Northern Grid,Proposal,63933,0.33,53,7,Budget constraints mentioned; might delay decision.
+OPP-060,Acme Bank,Qualification,26046,0.30,40,30,Project on hold due to internal re-org; risk of delay.
+OPP-061,FinPlus,Proposal,114155,0.51,36,12,Client very engaged and sees strong value in the solution.
+OPP-062,NorthTel,Closed Won,141449,0.84,76,36,Stakeholders aligned and interested in moving forward.
+OPP-063,NorthTel,Closed Won,149658,0.83,69,49,No major concerns raised; next demo is being scheduled.
+OPP-064,Summit Insurance,Proposal,100301,0.54,37,13,Client thinks current proposal is too expensive.
+OPP-065,Summit Insurance,Qualification,39495,0.15,16,29,Risk of losing to competitor if we cannot improve proposal.
+OPP-066,FinPlus,Proposal,55992,0.43,50,9,Technical fit confirmed; next step is commercial review.
+OPP-067,City Health,Proposal,39769,0.37,49,4,Customer raised concern about integration timeline and complexity.
+OPP-068,Summit Insurance,Discovery,74496,0.21,58,13,No major concerns raised; next demo is being scheduled.
+OPP-069,Acme Bank,Closed Lost,180913,0.06,10,29,Positive feedback from the last demo; awaiting internal approval.
+OPP-070,Evergreen Health,Closed Won,171091,0.95,79,58,Budget constraints mentioned; might delay decision.
+OPP-071,Macro Finance,Proposal,77125,0.45,29,10,Risk of losing to competitor if we cannot improve proposal.
+OPP-072,Summit Insurance,Qualification,18364,0.30,35,3,Client thinks current proposal is too expensive.
+OPP-073,Maple Retail,Prospecting,38089,0.07,30,8,Positive feedback from the last demo; awaiting internal approval.
+OPP-074,Prairie Telecom,Discovery,119775,0.38,22,24,Project on hold due to internal re-org; risk of delay.
+OPP-075,NorthTel,Discovery,81644,0.20,39,1,Competitor mentioned as alternative with lower price.
+OPP-076,NorthTel,Qualification,52713,0.11,2,10,Client very engaged and sees strong value in the solution.
+OPP-077,Summit Insurance,Discovery,107747,0.22,18,14,Risk of losing to competitor if we cannot improve proposal.
+OPP-078,Northern Grid,Discovery,99593,0.39,50,3,Budget constraints mentioned; might delay decision.
+OPP-079,NorthTel,Closed Lost,181698,0.00,49,43,Project on hold due to internal re-org; risk of delay.
+OPP-080,Skyline Logistics,Discovery,45995,0.22,49,26,Customer raised concern about integration timeline and complexity.
+OPP-081,Macro Finance,Negotiation,187394,0.72,55,18,Competitor mentioned as alternative with lower price.
+OPP-082,NorthTel,Proposal,86317,0.49,5,27,Client requested a high-level summary for leadership. Legal and procurement may add additional delays.
+OPP-083,Maple Retail,Closed Lost,150517,0.11,65,18,Decision maker is blocked and wants to pause discussion for now.
+OPP-084,Velocity Capital,Discovery,83372,0.29,57,23,Internal review ongoing; follow-up planned next week.
+OPP-085,NorthTel,Closed Won,103119,0.98,41,55,No major concerns raised; next demo is being scheduled.
+OPP-086,Prairie Telecom,Proposal,23761,0.45,25,5,Internal review ongoing; follow-up planned next week.
+OPP-087,Northern Grid,Discovery,111905,0.38,40,0,Customer asked for additional documentation.
+OPP-088,Skyline Logistics,Qualification,36635,0.20,16,25,Client requested a high-level summary for leadership.
+OPP-089,Macro Finance,Prospecting,24522,0.11,16,12,Competitor mentioned as alternative with lower price.
+OPP-090,Evergreen Health,Proposal,117771,0.47,27,22,Internal review ongoing; follow-up planned next week. Legal and procurement may add additional delays.
+OPP-091,FinPlus,Qualification,30679,0.12,35,27,Budget constraints mentioned; might delay decision. Prospect is still defining scope and requirements.
+OPP-092,Skyline Logistics,Proposal,97278,0.59,38,19,Client very engaged and sees strong value in the solution.
+OPP-093,Prairie Telecom,Discovery,43519,0.26,50,17,Client very engaged and sees strong value in the solution.
+OPP-094,Velocity Capital,Closed Lost,106581,0.10,26,47,Project on hold due to internal re-org; risk of delay.
+OPP-095,Acme Bank,Qualification,47621,0.16,31,17,Waiting for customer to confirm internal meeting date. Prospect is still defining scope and requirements.
+OPP-096,NorthTel,Closed Won,47129,0.88,19,43,Customer raised concern about integration timeline and complexity.
+OPP-097,Northern Grid,Qualification,29912,0.12,16,6,Client requested a high-level summary for leadership.
+OPP-098,FinPlus,Negotiation,166989,0.55,33,9,Project on hold due to internal re-org; risk of delay.
+OPP-099,Northern Grid,Proposal,117004,0.33,53,6,Competitor mentioned as alternative with lower price.
+OPP-100,City Health,Qualification,46175,0.12,1,16,No major concerns raised; next demo is being scheduled.
+OPP-101,Macro Finance,Prospecting,56331,0.09,30,5,Competitor mentioned as alternative with lower price.
+OPP-102,Maple Retail,Proposal,45928,0.43,39,7,Competitor mentioned as alternative with lower price.
+OPP-103,City Health,Prospecting,30159,0.14,37,12,Client requested a high-level summary for leadership.
+OPP-104,Macro Finance,Negotiation,161195,0.62,33,2,Client requested a high-level summary for leadership.
+OPP-105,Acme Bank,Proposal,31970,0.37,48,26,Client thinks current proposal is too expensive.
+OPP-106,Maple Retail,Closed Lost,100650,0.09,32,37,Client requested a high-level summary for leadership.
+OPP-107,City Health,Closed Won,183440,0.89,72,12,Client requested a high-level summary for leadership.
+OPP-108,Maple Retail,Discovery,33710,0.37,26,13,Competitor mentioned as alternative with lower price.
+OPP-109,Evergreen Health,Proposal,119680,0.47,34,2,Internal review ongoing; follow-up planned next week. Legal and procurement may add additional delays.
+OPP-110,Velocity Capital,Negotiation,30301,0.66,39,14,Customer asked for additional documentation.
+OPP-111,Summit Insurance,Proposal,101973,0.43,8,6,Stakeholders aligned and interested in moving forward.
+OPP-112,Skyline Logistics,Discovery,83532,0.22,45,19,Decision maker is blocked and wants to pause discussion for now.
+OPP-113,Velocity Capital,Qualification,10896,0.21,6,10,Customer raised concern about integration timeline and complexity.
+OPP-114,City Health,Qualification,42661,0.29,19,19,Project on hold due to internal re-org; risk of delay.
+OPP-115,FinPlus,Closed Lost,149743,0.08,59,19,Client thinks current proposal is too expensive.
+OPP-116,City Health,Negotiation,48300,0.51,55,27,No major concerns raised; next demo is being scheduled. Legal and procurement may add additional delays.
+OPP-117,Skyline Logistics,Prospecting,29566,0.18,38,24,Customer asked for additional documentation.
+OPP-118,Prairie Telecom,Proposal,92340,0.53,29,14,Risk of losing to competitor if we cannot improve proposal. Legal and procurement may add additional delays.
+OPP-119,Northern Grid,Negotiation,130393,0.49,54,13,Positive feedback from the last demo; awaiting internal approval.
+OPP-120,Evergreen Health,Negotiation,69873,0.60,7,4,No major concerns raised; next demo is being scheduled.
+OPP-121,Summit Insurance,Qualification,16534,0.21,30,3,Project on hold due to internal re-org; risk of delay.
+OPP-122,NorthTel,Closed Lost,153074,0.12,43,28,Project on hold due to internal re-org; risk of delay.
+OPP-123,Prairie Telecom,Proposal,108389,0.56,29,30,Client requested a high-level summary for leadership.
+OPP-124,NorthTel,Prospecting,25385,0.14,19,10,Project on hold due to internal re-org; risk of delay.
+OPP-125,Skyline Logistics,Negotiation,56347,0.58,49,9,Customer raised concern about integration timeline and complexity.
+OPP-126,Prairie Telecom,Prospecting,34565,0.11,16,19,Customer asked for additional documentation. Prospect is still defining scope and requirements.
+OPP-127,Evergreen Health,Qualification,50613,0.24,32,21,Positive feedback from the last demo; awaiting internal approval.
+OPP-128,Maple Retail,Discovery,21231,0.38,34,28,Customer sees us as preferred vendor pending contract review.
+OPP-129,Summit Insurance,Qualification,32646,0.30,20,23,Decision maker is blocked and wants to pause discussion for now. Prospect is still defining scope and requirements.
+OPP-130,FinPlus,Negotiation,130845,0.74,11,7,Internal review ongoing; follow-up planned next week.
+OPP-131,Macro Finance,Closed Lost,35751,0.15,60,24,Client very engaged and sees strong value in the solution.
+OPP-132,Skyline Logistics,Closed Won,160214,0.97,46,56,Client thinks current proposal is too expensive.
+OPP-133,FinPlus,Negotiation,196885,0.48,21,21,Risk of losing to competitor if we cannot improve proposal.
+OPP-134,Maple Retail,Negotiation,55470,0.76,46,1,Client requested a high-level summary for leadership. Legal and procurement may add additional delays.
+OPP-135,City Health,Discovery,31813,0.38,25,23,Customer asked for additional documentation.
+OPP-136,Velocity Capital,Qualification,33976,0.21,18,29,Positive feedback from the last demo; awaiting internal approval.
+OPP-137,Prairie Telecom,Discovery,35095,0.29,9,4,Budget constraints mentioned; might delay decision.
+OPP-138,Skyline Logistics,Closed Won,134179,0.99,81,30,Positive feedback from the last demo; awaiting internal approval.
+OPP-139,Velocity Capital,Prospecting,18099,0.12,17,21,Internal review ongoing; follow-up planned next week. Prospect is still defining scope and requirements.
+OPP-140,Acme Bank,Discovery,101205,0.38,40,10,Budget constraints mentioned; might delay decision.
+OPP-141,Maple Retail,Proposal,80852,0.57,24,20,Customer asked for additional documentation. Legal and procurement may add additional delays.
+OPP-142,Summit Insurance,Prospecting,17610,0.06,35,7,Internal review ongoing; follow-up planned next week.
+OPP-143,Velocity Capital,Negotiation,139871,0.63,51,4,Decision maker is blocked and wants to pause discussion for now. Legal and procurement may add additional delays.
+OPP-144,Evergreen Health,Proposal,56666,0.31,28,6,Customer asked for additional documentation.
+OPP-145,Maple Retail,Qualification,34073,0.21,23,4,Customer asked for additional documentation.
+OPP-146,Summit Insurance,Closed Lost,54031,0.10,86,8,Technical fit confirmed; next step is commercial review.
+OPP-147,City Health,Discovery,94000,0.24,58,24,No major concerns raised; next demo is being scheduled.
+OPP-148,FinPlus,Qualification,31532,0.25,39,3,Stakeholders aligned and interested in moving forward.
+OPP-149,City Health,Proposal,34408,0.50,6,4,Stakeholders aligned and interested in moving forward.
+OPP-150,Macro Finance,Prospecting,13434,0.07,27,19,Client very engaged and sees strong value in the solution.
+OPP-151,Velocity Capital,Negotiation,185625,0.44,37,7,Customer raised concern about integration timeline and complexity.
+OPP-152,Maple Retail,Closed Won,166695,0.86,13,10,Risk of losing to competitor if we cannot improve proposal.
+OPP-153,Maple Retail,Discovery,34150,0.30,33,2,Competitor mentioned as alternative with lower price.
+OPP-154,NorthTel,Proposal,36540,0.38,45,18,Internal review ongoing; follow-up planned next week.
+OPP-155,Macro Finance,Proposal,79469,0.45,32,3,Customer raised concern about integration timeline and complexity.
+OPP-156,Velocity Capital,Proposal,114481,0.56,32,14,Project on hold due to internal re-org; risk of delay.
+OPP-157,Evergreen Health,Discovery,115631,0.22,32,10,Competitor mentioned as alternative with lower price.
+OPP-158,Maple Retail,Closed Lost,154326,0.01,20,12,Internal review ongoing; follow-up planned next week.
+OPP-159,Velocity Capital,Negotiation,45723,0.63,40,17,Waiting for customer to confirm internal meeting date.
+OPP-160,Evergreen Health,Closed Won,43486,0.99,86,26,No major concerns raised; next demo is being scheduled.
+OPP-161,City Health,Proposal,106079,0.44,59,3,No major concerns raised; next demo is being scheduled.
+OPP-162,Northern Grid,Negotiation,89286,0.72,59,17,Risk of losing to competitor if we cannot improve proposal.
+OPP-163,Velocity Capital,Proposal,23441,0.48,47,26,Customer raised concern about integration timeline and complexity. Legal and procurement may add additional delays.
+OPP-164,Macro Finance,Negotiation,119082,0.54,16,27,Positive feedback from the last demo; awaiting internal approval. Legal and procurement may add additional delays.
+OPP-165,Acme Bank,Negotiation,54053,0.70,18,12,Internal review ongoing; follow-up planned next week. Legal and procurement may add additional delays.
+OPP-166,Prairie Telecom,Discovery,94395,0.32,8,4,Customer sees us as preferred vendor pending contract review.
+OPP-167,NorthTel,Prospecting,27832,0.12,28,18,Project on hold due to internal re-org; risk of delay. Prospect is still defining scope and requirements.
+OPP-168,NorthTel,Negotiation,120484,0.57,23,21,Project on hold due to internal re-org; risk of delay.
+OPP-169,FinPlus,Discovery,71807,0.40,8,0,Stakeholders aligned and interested in moving forward.
+OPP-170,Macro Finance,Negotiation,105876,0.53,5,15,Budget constraints mentioned; might delay decision. Legal and procurement may add additional delays.
+OPP-171,FinPlus,Proposal,85570,0.47,47,25,Client requested a high-level summary for leadership.
+OPP-172,Acme Bank,Prospecting,40130,0.19,21,21,Client requested a high-level summary for leadership.
+OPP-173,NorthTel,Discovery,73088,0.20,25,5,Client thinks current proposal is too expensive.
+OPP-174,Skyline Logistics,Discovery,67428,0.22,59,3,Customer sees us as preferred vendor pending contract review.
+OPP-175,NorthTel,Discovery,71873,0.37,52,10,Stakeholders aligned and interested in moving forward.
+OPP-176,Maple Retail,Prospecting,17472,0.13,13,27,Customer asked for additional documentation. Prospect is still defining scope and requirements.
+OPP-177,FinPlus,Qualification,21370,0.22,5,8,Decision maker is blocked and wants to pause discussion for now.
+OPP-178,Northern Grid,Negotiation,147677,0.67,41,20,Client thinks current proposal is too expensive.
+OPP-179,Prairie Telecom,Closed Lost,69572,0.07,70,35,Risk of losing to competitor if we cannot improve proposal.
+OPP-180,Acme Bank,Discovery,66129,0.30,24,14,Waiting for customer to confirm internal meeting date.
+OPP-181,Macro Finance,Discovery,30057,0.33,59,2,Client thinks current proposal is too expensive.
+OPP-182,Northern Grid,Discovery,92655,0.39,52,28,Customer sees us as preferred vendor pending contract review.
+OPP-183,Prairie Telecom,Proposal,99299,0.44,14,30,Client very engaged and sees strong value in the solution.
+OPP-184,Skyline Logistics,Negotiation,52106,0.60,16,1,Positive feedback from the last demo; awaiting internal approval.
+OPP-185,Northern Grid,Proposal,40807,0.41,23,12,Internal review ongoing; follow-up planned next week.
+OPP-186,Maple Retail,Prospecting,52421,0.10,22,6,Client requested a high-level summary for leadership. Prospect is still defining scope and requirements.
+OPP-187,Maple Retail,Negotiation,187994,0.75,26,2,Customer asked for additional documentation.
+OPP-188,Maple Retail,Discovery,111551,0.33,13,19,Customer raised concern about integration timeline and complexity.
+OPP-189,Evergreen Health,Discovery,104343,0.36,57,4,Risk of losing to competitor if we cannot improve proposal.
+OPP-190,Maple Retail,Closed Lost,167990,0.01,64,39,Internal review ongoing; follow-up planned next week.
+OPP-191,FinPlus,Discovery,64791,0.39,36,6,Stakeholders aligned and interested in moving forward.
+OPP-192,Macro Finance,Qualification,16628,0.20,35,29,Client thinks current proposal is too expensive. Prospect is still defining scope and requirements.
+OPP-193,Northern Grid,Discovery,37176,0.32,14,5,Customer sees us as preferred vendor pending contract review.
+OPP-194,City Health,Negotiation,144733,0.42,28,21,Project on hold due to internal re-org; risk of delay.
+OPP-195,Summit Insurance,Negotiation,91342,0.61,24,30,Project on hold due to internal re-org; risk of delay.
+OPP-196,Maple Retail,Qualification,47383,0.30,30,27,Positive feedback from the last demo; awaiting internal approval.
+OPP-197,City Health,Discovery,46174,0.36,13,27,Positive feedback from the last demo; awaiting internal approval.
+OPP-198,Velocity Capital,Closed Won,56893,0.94,76,14,Stakeholders aligned and interested in moving forward.
+OPP-199,Velocity Capital,Discovery,39313,0.37,10,30,Risk of losing to competitor if we cannot improve proposal.
+OPP-200,Prairie Telecom,Discovery,23495,0.28,30,16,Client requested a high-level summary for leadership.
