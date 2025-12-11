@@ -27,9 +27,6 @@ This project is designed to look and feel like the first iteration of an **AI sa
   - Amount by stage
   - Risk distribution
 
-The core message:  
-> _“I know how to go from data → simple intelligence → a clear UI that sales and leadership can use.”_
-
 ---
 
 ## 📸 Screenshots
